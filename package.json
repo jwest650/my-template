@@ -1,5 +1,5 @@
 {
-    "name": "cra-template-tailwindcss",
+    "name": "cra-template-with-tailwindcss",
     "version": "3.0.0",
     "keywords": [
         "react",
@@ -11,14 +11,14 @@
     "main": "template.json",
     "repository": {
         "type": "git",
-        "url": "https://github.com/GeoffSelby/cra-template-tailwindcss"
+        "url": "https://github.com/jwest650/my-template"
     },
     "license": "MIT",
     "engines": {
         "node": ">=8"
     },
     "bugs": {
-        "url": "https://github.com/GeoffSelby/cra-template-tailwindcss/issues"
+        "url": "https://github.com/jwest650/my-template/issues"
     },
     "files": [
         "template",
