@@ -1,6 +1,6 @@
 function App() {
     return (
-        <div className="text-center">
+        <div>
             <h1>hi React</h1>
         </div>
     );
